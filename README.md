@@ -29,7 +29,7 @@ This section briefly goes over the creation of a hypothetical help desk environm
 <h2>Configuration Steps</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+For the step of creating Agents, two agents, John and Jane were created to handle hypothetical tickets from Users. John and Jane were both assigned departments levels of accessibility, and teams (ie. Level I and Level II Support).</p>
 
 ![image](https://github.com/parkrich/post-install-config/assets/137697108/a77aaa18-7147-472c-8e89-7bd6a60d813f)
 <br />
