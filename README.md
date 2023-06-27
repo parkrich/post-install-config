@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Creating Help Desk Environment</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This section briefly goes over the creation of a hypothetical help desk environment setup.<br />
 
 
 <h2>Environments and Technologies Used</h2>
